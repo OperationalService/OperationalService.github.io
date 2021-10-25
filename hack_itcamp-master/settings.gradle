@@ -1,0 +1,4 @@
+rootProject.name = 'hack_itcamp'
+include 'client'
+include 'server'
+
