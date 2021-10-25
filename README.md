@@ -98,22 +98,22 @@
       ">
           <div class="container d-flex align-items-center justify-content-center text-center h-100">
             <div class="text-white">
-              <h1 class="mb-3">Learn Bootstrap 5 with MDB</h1>
-              <h5 class="mb-4">Best & free guide of responsive web design</h5>
+              <h1 class="mb-3">Построение IT инфраструктуры</h1>
+              <h5 class="mb-4">Мы предлагаем нашим заказчикам широкий спектр продукции и услуг для создания эффективной, современной и надежной IT-инфраструктуры</h5>
               <a
                 class="btn btn-outline-light btn-lg m-2"
-                href="https://www.youtube.com/watch?v=c9B4TPnak1A"
+                href=""
                 role="button"
                 rel="nofollow"
                 target="_blank"
-                >Start tutorial</a
+                >Загрузка начальных данных</a
               >
               <a
                 class="btn btn-outline-light btn-lg m-2"
-                href="https://mdbootstrap.com/docs/standard/"
+                href=""
                 target="_blank"
                 role="button"
-                >Download MDB UI KIT</a
+                >Просмотр бизнесс-процессов</a
               >
             </div>
           </div>
